@@ -1,16 +1,16 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "Cowsay written in Go, with more fun options",
     "homepage": "https://github.com/Code-Hex/Neo-cowsay",
     "license": "Artistic-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.3/cowsay_2.0.3_Windows_x86_64.zip",
-            "hash": "4066016feba9be3e17a9711a2a30a2d08522adfe6ff9238b21932da4732e2154"
+            "url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Windows_x86_64.zip",
+            "hash": "9a7ba1dfd94c526f9fbef10e8b59f068530e18d2457d0776240ffab791824cb1"
         },
         "32bit": {
-            "url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.3/cowsay_2.0.3_Windows_i386.zip",
-            "hash": "efe75f1ec16ccf8445238a2b36b74bf2c8cbc119b136807f725242483c095381"
+            "url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Windows_i386.zip",
+            "hash": "fd08590ce1794e69e786651c36f64def4632f07683ec558ebeeb0c29f3a0150e"
         }
     },
     "bin": [
