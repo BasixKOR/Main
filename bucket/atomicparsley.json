@@ -1,12 +1,12 @@
 {
-    "version": "20201231.092811.cbecfb1",
+    "version": "20221229.172126.d813aa6",
     "description": "Lightweight command line program for reading, parsing and setting metadata into MPEG-4 files",
     "homepage": "https://github.com/wez/atomicparsley",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wez/atomicparsley/releases/download/20201231.092811.cbecfb1/AtomicParsleyWindows.zip",
-            "hash": "c1361189287986fc461642ad3dbff8a795772a6b7f1e8f97013ea09bfbe2557b"
+            "url": "https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyWindows.zip",
+            "hash": "39bec5d5c0b33044d8adf9f4c41f382da090c61a597ee3543ed62a03b6cb56c9"
         }
     },
     "extract_dir": "Release",
