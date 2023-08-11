@@ -1,13 +1,13 @@
 {
     "##": "This package uses MSI installer (instead of portable ZIP) because only MSI contains the full feature of the app, see #3560 for details.",
-    "version": "4.6.0",
+    "version": "4.6.1",
     "description": "A tool for managing OCI containers and pods.",
     "homepage": "https://podman.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/containers/podman/releases/download/v4.6.0/podman-v4.6.0.msi",
-            "hash": "6cf00bc794dcdb27dede6e1799462935e1cb25513e56ce5ab187c2d9c60bde02",
+            "url": "https://github.com/containers/podman/releases/download/v4.6.1/podman-v4.6.1.msi",
+            "hash": "11d48a7c5b966285127f8650ba11282917b9f3a5a3042e078d5c6b86ba168b61",
             "extract_dir": "PFiles\\RedHat\\Podman"
         }
     },
